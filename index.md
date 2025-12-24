@@ -16,8 +16,8 @@ I build lightweight, reproducible tools for research and education.
 
 
 ## Links
-- GitHub: https://github.com/akonno
-- YouTube: https://www.youtube.com/@akonno
+- GitHub: [https://github.com/akonno](https://github.com/akonno)
+- YouTube: [https://www.youtube.com/@akonno](https://www.youtube.com/@akonno) (Japanese lecture videos for university courses)
 
 ## Contact
 
