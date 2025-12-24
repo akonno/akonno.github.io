@@ -1,9 +1,6 @@
 ---
 layout: default
 title: Akihisa Konno
-description: Research, education, and open-source projects
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: default
 ---
 
 # Akihisa Konno (金野 祥久)
