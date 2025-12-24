@@ -1,10 +1,6 @@
 title: Akihisa Konno
 description: Research, education, and open-source projects
-
-remote_theme: jekyll/minima
-
-minima:
-  skin: auto
+theme: jekyll-theme-minimal
 
 lang: en
 url: https://akonno.github.io
