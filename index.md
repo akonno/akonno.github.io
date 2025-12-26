@@ -14,6 +14,9 @@ I build lightweight, reproducible tools for research and education.
 - **[RectPlacer](https://akonno.github.io/RectPlacer)** — a lightweight 3D visualization tool for geometric placement and educational demonstrations
 - **[FluidSeminarMaterials](https://akonno.github.io/FluidSeminarMaterials/)** — teaching materials and exercises for a fluid engineering seminar (Japanese)
 
+## Small tools
+
+- **[Clock & Timer](https://akonno.github.io/clock-timer/)** — a presentation-friendly clock and timer designed with visual comfort in mind
 
 ## Links
 - GitHub: [https://github.com/akonno](https://github.com/akonno)
